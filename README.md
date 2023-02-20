@@ -130,7 +130,7 @@ Este comando sube los archivos al repositorio de github (nube) hay que espicific
    git push -u origin main
 ```
 <br>
-Nota: el -U hace referencia a Update por lo cual sobreescribira alguna modificacion en un archivo.
+Nota: el -U hace referencia a Update por lo cual sobreescribira alguna modificacion en un archivo que tuviera alguna.
 <br>
 </p>
 </details>
