@@ -1,7 +1,7 @@
 # Crear repositorio y subir proyecto
 
 Los pasos a continuacion se deberan realizar en el orden presentado para que no halla algun problema o error en el proceso de subir nuestro proyecto
-a nuestro repositoto.
+a nuestro repositorio.
 
 <details><summary>Inicializar el repositorio (git init)</summary>
 <br>
